@@ -56,8 +56,8 @@ Pastikan sistem Anda telah terinstal:
 1. **Clone Repository**
    
    ```bash
-   git clone https://github.com/your-repo/booking-app.git
-   cd booking-app
+   git clone https://github.com/Hnf77/App-Ngekos.git
+   cd App-Ngekos
 
 2. **Install Dependensi**
    
