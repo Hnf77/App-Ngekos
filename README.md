@@ -33,6 +33,7 @@ KosBookingApp is a web-based application designed to simplify the booking proces
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/0e010e65-48af-425c-9864-dd454cac56b2" alt="Home Page" />
 <img src="https://github.com/user-attachments/assets/be74cef6-5ebb-4829-a323-3267ca07b790" alt="Admin Panel Page" />
+<img src="https://github.com/user-attachments/assets/409ef6a1-8564-455c-b1f7-92e0f018748d" alt="Payment Page" />
 
 ---
 
