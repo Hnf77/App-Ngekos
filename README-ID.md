@@ -31,7 +31,8 @@ KosBookingApp adalah aplikasi berbasis web yang dirancang untuk menyederhanakan 
 ---
 
 ## Screenshot
-_Tambahkan screenshot dari aplikasi di sini, seperti halaman utama, panel admin, dan halaman konfirmasi pembayaran._
+<img src="https://github.com/user-attachments/assets/0e010e65-48af-425c-9864-dd454cac56b2" alt="Home Page" />
+<img src="https://github.com/user-attachments/assets/be74cef6-5ebb-4829-a323-3267ca07b790" alt="Admin Panel Page" />
 
 ---
 
