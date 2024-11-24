@@ -60,7 +60,7 @@ Ensure the following are installed on your system:
    
    ```bash
    composer install
-   npm install && npm run dev
+   npm install
    
 3. **Configure Environment Variables Copy the ***.env.example*** file to ***.env*** and edit the following values:**
 
