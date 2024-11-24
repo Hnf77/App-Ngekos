@@ -56,8 +56,8 @@ Ensure the following are installed on your system:
 1. **Clone the Repository**
    
    ```bash
-   git clone https://github.com/your-repo/booking-app.git
-   cd booking-app
+   git clone https://github.com/Hnf77/App-Ngekos.git
+   cd App-Ngekos
    
 2. **Install Dependencies**
    
