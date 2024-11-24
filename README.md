@@ -16,7 +16,7 @@
 KosBookingApp is a web-based application designed to simplify the booking process for rental accommodations such as boarding houses (kos). Built using **Laravel**, **FilamentPHP**, and **Midtrans**, this application provides a feature-rich platform for tenants and property owners to manage their activities effectively. 
 
 ## Translation
-- <a href="">Indonesia</a> 
+- <a href="https://github.com/Hnf77/BWA-Ngekos/blob/main/README-ID.md">Indonesia</a> 
 
 ## Key Features
 
