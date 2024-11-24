@@ -16,7 +16,7 @@
 KosBookingApp adalah aplikasi berbasis web yang dirancang untuk menyederhanakan proses pemesanan akomodasi seperti kos. Dibangun menggunakan **Laravel**, **FilamentPHP**, dan **Midtrans**, aplikasi ini menyediakan platform kaya fitur bagi penyewa dan pemilik properti untuk mengelola aktivitas mereka secara efektif.
 
 ## Terjemahan
-- <a href="">Inggris</a>
+- <a href="https://github.com/Hnf77/BWA-Ngekos/blob/main/README.md">Inggris</a>
 
 ## Fitur Utama
 
