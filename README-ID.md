@@ -59,3 +59,40 @@ Pastikan sistem Anda telah terinstal:
    git clone https://github.com/your-repo/booking-app.git
    cd booking-app
 
+2. **Install Dependensi**
+   
+   ```bash
+   composer install
+   npm install
+   
+3. **Konfigurasi Variabel Lingkungan**
+    Salin file .env.example menjadi .env dan edit nilai berikut:
+    ```bash
+   MIDTRANS_SERVER_KEY=<Your Key>
+   MIDTRANS_IS_PRODUCTION=false
+   MIDTRANS_IS_SANITIZED=true
+   MIDTRANS_IS_3DS=true
+   
+4. **Generate Application Key**
+
+    ```bash
+   php artisan key:generate
+
+5. **Jalankan Migrations**
+   
+   ```bash
+   php artisan migrate
+
+6. **Mulai Server Development**
+   
+   ```bash
+   php artisan serve
+
+7. **Akses ke Aplikasi**
+
+    - Frontend: http://localhost
+    - Admin Panel (Filament): http://localhost/admin
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah **MIT License**.
